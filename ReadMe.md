@@ -24,7 +24,7 @@ This course contains the following attributes:
 
 
 ### Instructions
-Use the entitled HTML file “Open_First-Ouvrier_en_premier.html” which will launch the content for your review.
+Use the entitled HTML file “index.html” which will launch the content for your review.
 
 
 
